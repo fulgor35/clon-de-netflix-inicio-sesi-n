@@ -36,32 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-This repository contains a clone of the Netflix login page built using Next.js 14, TypeScript, Prisma, MongoDB, and bcrypt for password hashing.
-
-Features
-Next.js 14: Utilizes the latest version of Next.js for server-side rendering and improved performance.
-TypeScript: Ensures type safety and enhances developer productivity.
-Prisma: An ORM (Object-Relational Mapping) for Node.js and TypeScript, used for database interactions.
-MongoDB: A NoSQL database used for storing user data.
-bcrypt: A library for hashing passwords, providing added security to user credentials.
-Getting Started
-Prerequisites
-Before running the application, ensure you have the following installed:
-
-Node.js
-MongoDB
-Installation
-Clone this repository:
-  git clone https://github.com/EasyCodingTutorial/Netflix_Login
-Navigate into the project directory:
-  cd netflix-login-page
-Install dependencies:
-npm install
-Set up environment variables:
-DATABASE_URL : ""
-Usage
-Start the development server:
-  npm run dev
-Open your browser and navigate to http://localhost:3000 to view the application.
-http://localhost:3000
+This repository contains a clone of the Netflix login page built using Next.js 14, TypeScript, Prisma, MongoDB, and bcrypt 
 
